@@ -1,2 +1,2 @@
 # Calculadora-React
-Exercício de React
+Projeto simples envolvendo React.
